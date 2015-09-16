@@ -2,7 +2,7 @@
 //
 
 #include "stdafx.h"
-#include "../Inlclude/Integral.h"
+#include "../Include/Integral.h"
 #include <thread>
 #include <mutex>
 #include <vector>
